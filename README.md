@@ -5,7 +5,7 @@
 ### Activación de contenidos.
 
 1. [Introducción a Kaggle y el filtrado de datos](Introduccion.ipynb).
-2. Revisa el contenido práctico completo en Jupyter Notebook
+2. Revisa el contenido práctico completo en Jupyter Notebook:
      - [Filtrado I](FiltradoI.ipynb).
      - [Filtrado II](FiltradoII.ipynb)
      - [Filtrado III](FiltradoIII.ipynb)
