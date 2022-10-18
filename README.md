@@ -1,11 +1,11 @@
 # Evaluación 2 DIP-447
 
-## Simulación de clase 2 curso ACI777 Capítulo II
+## Simulación de clase 1 curso ACI777 Capítulo II
 
 ### Activación de contenidos.
 
 1. [Introducción a Kaggle y el filtrado de datos](Introduccion.ipynb).
-2. Revisa la clase completa en Jupyter Notebook.
+2. [Revisa el contenido práctico completo en Jupyter Notebook](Filtrado.ipynb).
 3. Puedes interactuar directamente con el código de la clase en google colab.
 
 ### Desarrollo
