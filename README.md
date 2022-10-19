@@ -4,6 +4,11 @@
 
 ### Activación de contenidos.
 
+#### Mapa mental de la clase:
+
+![Miro](imagenes/FiltradoDatosMiro.jpeg)
+
+
 1. [Introducción a Kaggle y el filtrado de datos](Introduccion.ipynb).
 2. Revisa el contenido práctico completo en Jupyter Notebook, puedes acceder e interactuar con el código directamente en google colab:
      - [Filtrado I](FiltradoI.ipynb) [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/dip447/blob/main/FiltradoI.ipynb)
