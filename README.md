@@ -22,6 +22,8 @@
 
 ### Cierre
 
-
+1. El profesor le indicará un grupo al que deberá revisar el código.
+2. Abre el código de tus compañeros en [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) e indica comentarios, sugerencias y/o correcciones a ese código.
+3. Comenta con tus compañeros la evaluación.
 
 
