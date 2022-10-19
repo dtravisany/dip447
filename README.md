@@ -6,7 +6,7 @@
 
 #### Mapa mental de la clase:
 
-![Miro](imagenes/FiltradoDatosMiro.jpeg)
+![Miro](imagenes/FiltradoDatosMiro.jpg)
 
 
 1. [Introducción a Kaggle y el filtrado de datos](Introduccion.ipynb).
