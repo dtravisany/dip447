@@ -6,13 +6,9 @@
 
 1. [Introducción a Kaggle y el filtrado de datos](Introduccion.ipynb).
 2. Revisa el contenido práctico completo en Jupyter Notebook, puedes acceder e interactuar con el código directamente en google colab:
-     - [Filtrado I](FiltradoI.ipynb), [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/dip447/blob/main/FiltradoI.ipynb).
-     - [Filtrado II](FiltradoII.ipynb).
-     - [Filtrado III](FiltradoIII.ipynb).
-3. Puedes interactuar directamente con el código de la clase en google colab:
-     - [Filtrado I](FiltradoI.ipynb).
-     - [Filtrado II](FiltradoII.ipynb).
-     - [Filtrado III](FiltradoIII.ipynb).
+     - [Filtrado I](FiltradoI.ipynb) [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/dip447/blob/main/FiltradoI.ipynb)
+     - [Filtrado II](FiltradoII.ipynb) [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/dip447/blob/main/FiltradoII.ipynb)
+     - [Filtrado III](FiltradoIII.ipynb) [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/dip447/blob/main/FiltradoIII.ipynb)
   
 ### Desarrollo
 1. Vaya a Kaggle y seleccione los datos que le parezcan atractivos para modelar e indique su motivación por ese conjunto.
