@@ -11,8 +11,8 @@
      - [Filtrado III](FiltradoIII.ipynb) [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dtravisany/dip447/blob/main/FiltradoIII.ipynb)
   
 ### Desarrollo
-1. Vaya a Kaggle y seleccione los datos que le parezcan atractivos para modelar e indique su motivación por ese conjunto.
-2. Comienza a filtrar tus datos en google colab.
+1. Vaya a [Kaggle](https://www.kaggle.com/) y seleccione los datos que le parezcan atractivos para modelar e indique la motivación por ese conjunto.
+2. Comienza a filtrar tus datos en [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) y comparte el link con tu docente.
 3. Guarda tu 
 
 
