@@ -13,6 +13,10 @@
 ### Desarrollo
 1. Vaya a [Kaggle](https://www.kaggle.com/) y seleccione los datos que le parezcan atractivos para modelar e indique la motivación por ese conjunto.
 2. Comienza a filtrar tus datos en [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) y comparte el link con tu docente para revisiones y comentarios en tiempo real.
-3. Guarda tu código y compartelo en [github](https://github.com/)
+3. Guarda tu código y compartelo en [github](https://github.com/).
+
+### Cierre
+
+
 
 
